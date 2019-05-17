@@ -40,7 +40,7 @@ debug($user, 'User object');
 ```
 (In most places this will be the currently logged-in user).
 
-If unsure whether code is being run at all put `exit('Let me know it works!');` in your code
+If unsure whether code is being run at all put the line `exit('Let me know it works!');` in your code
 
 
 ## The Drupal 7 Forms API
