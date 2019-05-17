@@ -40,10 +40,8 @@ debug($user, 'User object');
 ```
 (In most places this will be the currently logged-in user).
 
-If unsure whether code is being run at all put this line in your code
-```
-exit('Let me know it works!');
-```
+If unsure whether code is being run at all put `exit('Let me know it works!');` in your code
+
 
 ## The Drupal 7 Forms API
   Introduced by Drupal 7, the output of a default #type 'markup' form element
